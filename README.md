@@ -92,22 +92,6 @@ The plot shows the convergence of both supervised and unsupervised loss terms, v
 
 ---
 
-## 🧾 Files & Structure
-
-```
-.
-├── ReFixMatch_STL10.ipynb        # Main training & evaluation notebook
-├── streamlit_app.py              # Web UI for live predictions
-├── requirements.txt              # Python dependencies
-├── run.sh                        # Shell script to launch notebook or app
-├── Makefile                      # Automation commands for setup and run
-├── models/                       # Trained model checkpoints
-├── assets/                       # PROOF1.png to PROOF4.png, used in README
-├── utils/                        # Data loading, augmentations, helper functions
-└── README.md                     # Project documentation
-```
-
----
 
 ## 🛠️ Running Instructions
 
